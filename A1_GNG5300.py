@@ -1,3 +1,5 @@
+# Author = Meet Patel
+# Email = mpate196@uottawa.ca
 print("-------------------------------------")
 print("Student and Course management program")
 print("-------------------------------------")
